@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\bin\Debug\PuzzleEnglish.exe.config
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\bin\Debug\PuzzleEnglish.exe
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\bin\Debug\PuzzleEnglish.pdb
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\PuzzleEnglish.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\PuzzleEnglish.Form1.resources
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\PuzzleEnglish.Properties.Resources.resources
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\PuzzleEnglish.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\PuzzleEnglish.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\PuzzleEnglish.exe
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\PuzzleEnglish.pdb
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\PuzzleEnglish\PuzzleEnglish\obj\Debug\PuzzleEnglish.csproj.ResolveComReference.cache
